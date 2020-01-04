@@ -1,3 +1,13 @@
+## Credits
+
+* **MiCk Software** - *Initial work* - [MiCkSoftware](https://github.com/MiCkSoftware)
+
+See also the list of [contributors](https://github.com/MiCkSoftware/colorpal/contributors) who participated in this project.
+
+If you are happy with this you can pay me a beer: [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/micksoftware)
+
+[Website](https://sites.google.com/view/micksoftware/home)
+
 # Colorpal
 CLI Tool to help with color harmonics (triadic, tetradic,...)
 
@@ -67,13 +77,6 @@ Check everything is OK by running the script. Eg:
 colorpal ff00ff
 ```
 
-## Author
-
-* **MiCk Sodtware** - *Initial work* - [MiCkSoftware](https://github.com/MiCkSoftware)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-Check my website: https://sites.google.com/view/micksoftware/home
 
 ## License
 
